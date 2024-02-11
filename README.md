@@ -4,7 +4,7 @@ Welcome to the GitHub repository for TravelKaro—an immersive online platform d
 
 ## TravelKaro
 
-![TravelKaro Logo](url_to_your_logo)
+TravelKaro (https://github.com/AyushSarfare/TravelKaroNew/blob/main/index.html))
 
 TravelKaro is your go-to destination for exploring the diverse and enchanting landscapes of India. This website has been meticulously designed and developed to provide users with a seamless experience across various devices.
 
@@ -14,31 +14,31 @@ TravelKaro is your go-to destination for exploring the diverse and enchanting la
 
 The home page warmly welcomes users with stunning visuals, highlighting the rich cultural heritage, natural beauty, and vibrant experiences that India has to offer.
 
-![Home Page](url_to_home_screenshot)
+Home Page : (https://github.com/AyushSarfare/TravelKaroNew/blob/main/index.html)
 
 ### About Us
 
 Delve into the heart of TravelKaro with our "About Us" section. Gain insights into our mission, values, and commitment to promoting Indian tourism. Learn about our team and how we strive to provide exceptional travel experiences.
 
-![About Us Page](url_to_about_screenshot)
+About Us Page : (https://github.com/AyushSarfare/TravelKaroNew/blob/main/index.html#about)
 
 ### Explore Packages
 
 Embark on a journey of discovery with our curated list of travel packages. Uncover detailed information about various tour packages, including itineraries, pricing, and unique features that make each trip memorable.
 
-![Packages Page](url_to_packages_screenshot)
+Packages Page : (https://github.com/AyushSarfare/TravelKaroNew/blob/main/index.html#package)
 
 ### Popular Destinations
 
 Immerse yourself in the beauty of India's most sought-after destinations. Each location is showcased through captivating images and accompanied by detailed descriptions to help users plan their dream trips.
 
-![Destinations Page](url_to_destinations_screenshot)
+Destinations Page : (https://github.com/AyushSarfare/TravelKaroNew/blob/main/index.html#destination)
 
 ### Testimonials
 
 Read the heartfelt experiences of our satisfied travelers. Discover what makes TravelKaro the preferred choice for those seeking unforgettable adventures across India.
 
-![Testimonials Page](url_to_testimonials_screenshot)
+Testimonials Page : (https://github.com/AyushSarfare/TravelKaroNew/blob/main/index.html#testimonial)
 
 ### Booking Process
 
@@ -52,25 +52,23 @@ Read the heartfelt experiences of our satisfied travelers. Discover what makes T
 
 5. **Confirm Your Booking:** Once satisfied with the itinerary and pricing, confirm your booking by completing the necessary payment steps.
 
-![Booking Page](url_to_booking_screenshot)
+Booking Page : (https://github.com/AyushSarfare/TravelKaroNew/blob/main/form.php)
 
 ### Login/SignUp
 
 Access our exclusive features by creating an account! The Login/SignUp page allows users to register for a TravelKaro account, providing personalized access to booking history, preferences, and more.
 
-![Login/SignUp Page](url_to_login_signup_screenshot)
+Login/SignUp Page : ((https://github.com/AyushSarfare/TravelKaroNew/blob/main/login.html))
 
 ### Contact Us
 
 Have questions or need assistance? Use our user-friendly contact form to get in touch with our team.
 
-![Contact Us Page](url_to_contact_screenshot)
+Contact Us Page : (https://github.com/AyushSarfare/TravelKaroNew/blob/main/index.html#contact)
 
 ### Responsive Design
 
 TravelKaro is designed to be fully responsive, ensuring an optimal viewing and interaction experience across a wide range of devices, from desktops to smartphones.
-
-![Responsive Design](url_to_responsive_screenshot)
 
 ### User Dashboard
 
